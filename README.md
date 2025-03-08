@@ -260,17 +260,6 @@ project/
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 创建一个 Pull Request
 
-## 📄 许可证
 
-本项目遵循 MIT 许可证协议 - 详情请参阅 [LICENSE](LICENSE) 文件
-
-## 📞 联系方式
-
-如有任何问题或建议，请通过以下方式联系我们：
-
-- 项目维护者：[您的姓名](mailto:your.email@example.com)
-- 项目主页：[GitHub项目地址](https://github.com/yourusername/question-generator)
-
----
 
 **感谢使用个性化题目生成系统！** 
